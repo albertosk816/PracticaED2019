@@ -20,7 +20,7 @@ public class operarArray {
 		
 	}
 	//hola
-	
+	//hola2
 private static void imprimeArray() {
 		
 		
