@@ -19,7 +19,9 @@ public class operarArray {
 		}
 		
 	}
-	
+	//hola
+	//hola2
+	//asfdasfd
 private static void imprimeArray() {
 		
 		
