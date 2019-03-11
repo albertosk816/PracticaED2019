@@ -19,7 +19,10 @@ public class operarArray {
 		}
 		
 	}
+
 	//poipo
+
+
 private static void imprimeArray() {
 		
 		
