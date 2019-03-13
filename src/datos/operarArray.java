@@ -17,10 +17,6 @@ public class operarArray {
 			num[i] = (int) Math.round(Math.random()*20);
 			System.out.println(num[i]);
 		}
-		
-	}
-
-	//poipo
 
 
 private static void imprimeArray() {
